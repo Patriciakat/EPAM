@@ -1,2 +1,2 @@
 # EPAM
-This repository contains my projects for EPAM Automated Testing Course in C# .NET
+This repository contains practical tasks and my projects for EPAM Automated Testing Training program in .NET
