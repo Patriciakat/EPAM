@@ -1,2 +1,2 @@
-# EPAM
-This repository contains practical tasks and my projects for EPAM Automated Testing Training program in .NET
+# C# Core for Automated Testing Basics in .NET
+This repository contains practical tasks for EPAM course designed to develop foundational skills in test automation using .Net.
